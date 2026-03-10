@@ -34,7 +34,7 @@ export const projects = {
       title: "Wedding website",
       desc: "RSVP functionality",
       year: "2025",
-      url: "https://wedding-website-seven-teal.vercel.app/",
+      url: "https://github.com/dieseldanno/wedding-website",
       image: "/previews/wedding-website.png",
     },
   ],
