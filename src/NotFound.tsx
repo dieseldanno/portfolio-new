@@ -80,7 +80,7 @@ export default function NotFound() {
             OK
           </button>
           <button
-            onClick={() => navigate(-1)}
+            onClick={() => navigate("/")}
             className="px-6 py-0.5 text-xs bg-[#c0c0c0] min-w-20"
             style={{
               border: "2px solid",
