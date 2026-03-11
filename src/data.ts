@@ -43,7 +43,7 @@ export const projects = {
 export const links = [
   {
     label: "CV",
-    url: "https://drive.google.com/file/d/14VWIokR5pq2lYBXEB-5740WtchAL5VoQ/view?usp=sharing",
+    url: "https://drive.google.com/file/d/1AOkRtE1dla6-1Mn1T_HFsOYTn4O9btWF/view?usp=sharing",
     icon: "📄",
   },
   { label: "GitHub", url: "https://github.com/dieseldanno", icon: "💾" },
