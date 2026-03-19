@@ -58,3 +58,32 @@ export const links = [
     icon: "🎵",
   },
 ];
+
+export const techstack = {
+  Frontend: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "Framer",
+    "Responsive Design",
+  ],
+  Backend: ["Node.js", "Express.js"],
+  Database: ["MongoDB", "Mongoose", "PostgreSQL"],
+  "Tools & Version Control": [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Figma",
+    "Vercel",
+    "npm/yarn",
+  ],
+  "Soft Skills": [
+    "Creative Problem Solving",
+    "UX/UI Principles",
+    "Innovative Solutions",
+  ],
+};
